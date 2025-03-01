@@ -1,0 +1,26 @@
+{
+  "name": "clone_disney_plus",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "gulp",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SantosJI4/clone_disney_plus.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SantosJI4/clone_disney_plus/issues"
+  },
+  "homepage": "https://github.com/SantosJI4/clone_disney_plus#readme",
+  "description": "",
+  "devDependencies": {
+    "gulp": "^5.0.0",
+    "gulp-sass": "^6.0.0",
+    "sass": "^1.85.1"
+  }
+}
