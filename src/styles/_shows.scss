@@ -32,12 +32,12 @@
 
     @media (max-width: 768px) {
       white-space: nowrap;
-      overflow-x: scroll;
+      overflow-x: none;
       padding-left: 20px;
     }
 
     &__button {
-      color: variaveis.$corDoTexto2;
+      color: variaveis.$corTextoSecundario;
       font-size: 20px;
       border: none;
       padding-bottom: 5px;
@@ -48,7 +48,7 @@
       border-bottom: 5px solid transparent;
 
       &--is-active {
-        border-color: variaveis.$corDoTexto2;
+        border-color: variaveis.$corTextoSecundario;
       }
 
       @media (max-width: 768px) {
